@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: grey;
+color: black;
+border: 3px solid black;
+}
+body{
+	background-color: white;
+	color: black;
+}
+.sticky{
+	position: fixed;
+}
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: black;
+	background-color: white;
+}
+.navbar-brand{
+font-size: 30px;
+color: black;	
+}
+#myNavbar ul div li a {
+	border: 2px solid black;
+}
+
